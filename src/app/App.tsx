@@ -23,21 +23,21 @@ const SITE_CONTENT = {
     projects: [
       {
         title: "Gabiasplice",
-        year: "2024",
+        year: "2025",
         description: "Education startup based on the idea of bringing tutoring to people's phones.",
         image: imgRectangle6,
         link: "https://your-project-link.com" 
       },
       {
         title: "Project 2",
-        year: "2024",
+        year: "2026",
         description: "Revised midterm based on marketing strategy website.",
         image: imgProject2,
         link: "https://www.figma.com/design/f0eJm3bEzDVOHAb7Vwzxv5/Project-2?t=jiPvoyq0qZ6v7ZWZ-1" 
       },
       {
         title: "Athlete portfolio",
-        year: "2023",
+        year: "2026",
         description: "Revised portfolio for Athletes based on coursework and research. ",
         image: imgRectangle8,
         link: "https://www.figma.com/design/dUOshkisNVFwHQSWmwmCEy/sports-portfolio?t=jiPvoyq0qZ6v7ZWZ-1"
